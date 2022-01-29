@@ -1,0 +1,11 @@
+* { 
+    padding: 0;
+    align-items: center; 
+}
+canvas { 
+    background: linear-gradient(to top, #00070a, #388fba);
+    display: block; 
+    margin: 60px auto; 
+}
+
+
